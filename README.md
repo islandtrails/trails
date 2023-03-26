@@ -3,8 +3,11 @@
 [Island Trails](https://islandtrails.ca) is a not-for-profit, non-government, organization which actively supports the promotion,
 development and enhancement of the trails on Prince Edward Island for healthy recreation and educational use.
 
-This repository contains route maps and related information for the 11 trails that Island Trails manages or supports directly:
+This repository contains route maps and related information for the 11 trails that Island Trails manages or supports directly.
 
+The route maps are derived from [GIS data gathered in the field](https://arcg.is/1K1nDf2) by Recreation PEI and processed
+by the PEI Department of Transportation and Infrastructure. Each trail's route was extraced from ESRI shapefiles extracted from
+the Island-wide coverage of that project.
 
 | Trail Website  | Shapefile  |
 |----|---|
