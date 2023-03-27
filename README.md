@@ -16,7 +16,7 @@ the Island-wide coverage of that project.
 | [Boughton River](https://islandtrails.ca/trails/boughton-river-trail)
 | [Breadalbane](https://islandtrails.ca/trails/breadalbane-nature-trail) | [Shapefile](https://github.com/islandtrails/trails/tree/main/breadalbane/shp) | [OpenStreetMap](https://www.openstreetmap.org/relation/5689854#map=15/46.3576/-63.4903) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5689854&type=relation&map=15.0/46.3576/-63.4903)
 | [Dromore](https://islandtrails.ca/trails/dromore-woodland-trail)
-| [Forest Hill](https://islandtrails.ca/trails/forest-hill-trail)
+| [Forest Hill](https://islandtrails.ca/trails/forest-hill-trail) | [Shapefile](https://github.com/islandtrails/trails/tree/main/forest-hill-trail/shp) | [OpenStreetMap](https://www.openstreetmap.org/relation/5689271#map=15/46.3543/-62.5175) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5689271&map=15.0/46.3543/-62.5175)
 | [Forestview](https://islandtrails.ca/trails/forestview-trail)
 | [Gairloch](https://islandtrails.ca/trails/gairloch-road-trail)
 | [Selkirk Forest](https://islandtrails.ca/trail/selkirk-forest-walking-trail/) | [Shapefile](https://github.com/islandtrails/trails/tree/main/selkirk_forest/shp) | [OpenStreetMap](https://www.openstreetmap.org/relation/5757133#map=16/46.0513/-62.7981) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5757133&map=16.0/46.0522/-62.7981)
