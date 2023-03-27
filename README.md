@@ -19,7 +19,7 @@ the Island-wide coverage of that project.
 | [Forest Hill](https://islandtrails.ca/trails/forest-hill-trail)
 | [Forestview](https://islandtrails.ca/trails/forestview-trail)
 | [Gairloch](https://islandtrails.ca/trails/gairloch-road-trail)
-| [Selkirk Forest](https://islandtrails.ca/trail/selkirk-forest-walking-trail/)
+| [Selkirk Forest](https://islandtrails.ca/trail/selkirk-forest-walking-trail/) | [Shapefile](https://github.com/islandtrails/trails/tree/main/selkirk_forest/shp) | [OpenStreetMap](https://www.openstreetmap.org/relation/5757133#map=16/46.0513/-62.7981) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5757133&map=16.0/46.0522/-62.7981)
 | [Strathgartney](https://islandtrails.ca/trails/bonshaw-trails)
 | [Winter River](https://islandtrails.ca/trails/winter-river-trail)
 
