@@ -20,7 +20,7 @@ the Island-wide coverage of that project.
 | [Forestview](https://islandtrails.ca/trails/forestview-trail)
 | [Gairloch](https://islandtrails.ca/trails/gairloch-road-trail)
 | [Selkirk Forest](https://islandtrails.ca/trail/selkirk-forest-walking-trail/) | [Shapefile](https://github.com/islandtrails/trails/tree/main/selkirk_forest/shp) | [OpenStreetMap](https://www.openstreetmap.org/relation/5757133#map=16/46.0513/-62.7981) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5757133&map=16.0/46.0522/-62.7981)
-| [Strathgartney](https://islandtrails.ca/trails/bonshaw-trails)
+| [Strathgartney](https://islandtrails.ca/trails/bonshaw-trails) | [Shapefile](https://github.com/islandtrails/trails/tree/main/strathgartney/shp) | [OpenStreetMap](https://www.openstreetmap.org/relation/5741285#map=15/46.2063/-63.3390) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5741285&map=15.0/46.2063/-63.339)
 | [Winter River](https://islandtrails.ca/trails/winter-river-trail)
 
 ## Updating OpenStreetMap
