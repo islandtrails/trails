@@ -14,7 +14,7 @@ the Island-wide coverage of that project.
 | [Black Marsh](https://islandtrails.ca/trail/north-cape-nature-trail/) | [Shapefile](https://github.com/islandtrails/trails/tree/main/black_marsh/shp) | [OpenStreetMap](https://www.openstreetmap.org/relation/15648482#map=15/47.0494/-64.0048) | [Waymwarked Trails](https://hiking.waymarkedtrails.org/#route?id=15648482&type=relation&map=15.0/47.0494/-64.0048)
 | [Bonshaw](https://islandtrails.ca/trail/bonshaw-trails/)
 | [Boughton River](https://islandtrails.ca/trails/boughton-river-trail)
-| [Breadalbane](https://islandtrails.ca/trails/breadalbane-nature-trail)
+| [Breadalbane](https://islandtrails.ca/trails/breadalbane-nature-trail) | [Shapefile](https://github.com/islandtrails/trails/tree/main/breadalbane/shp) | [OpenStreetMap](https://www.openstreetmap.org/relation/5689854#map=15/46.3576/-63.4903) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5689854&type=relation&map=15.0/46.3576/-63.4903)
 | [Dromore](https://islandtrails.ca/trails/dromore-woodland-trail)
 | [Forest Hill](https://islandtrails.ca/trails/forest-hill-trail)
 | [Forestview](https://islandtrails.ca/trails/forestview-trail)
