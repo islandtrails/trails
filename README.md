@@ -15,7 +15,7 @@ the Island-wide coverage of that project.
 | [Bonshaw](https://islandtrails.ca/trail/bonshaw-trails/) | [Shapefile](https://github.com/islandtrails/trails/tree/main/bonshaw/shp)| [OpenStreetMap](https://www.openstreetmap.org/relation/5739225) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5739225&map=14.0/46.211/-63.3431)
 | [Boughton River](https://islandtrails.ca/trails/boughton-river-trail)
 | [Breadalbane](https://islandtrails.ca/trails/breadalbane-nature-trail) | [Shapefile](https://github.com/islandtrails/trails/tree/main/breadalbane/shp) | [OpenStreetMap](https://www.openstreetmap.org/relation/5689854#map=15/46.3576/-63.4903) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5689854&type=relation&map=15.0/46.3576/-63.4903)
-| [Dromore](https://islandtrails.ca/trails/dromore-woodland-trail)
+| [Dromore](https://islandtrails.ca/trails/dromore-woodland-trail) | [Shapefile](https://github.com/islandtrails/trails/tree/main/dromore/shp)  | [OpenStreetMap](https://www.openstreetmap.org/relation/5689296#map=14/46.2965/-62.8261) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5689296&map=14.0/46.2965/-62.8261)
 | [Forest Hill](https://islandtrails.ca/trails/forest-hill-trail) | [Shapefile](https://github.com/islandtrails/trails/tree/main/forest-hill-trail/shp) | [OpenStreetMap](https://www.openstreetmap.org/relation/5689271#map=15/46.3543/-62.5175) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5689271&map=15.0/46.3543/-62.5175)
 | [Forestview](https://islandtrails.ca/trails/forestview-trail) | [Shapefile](https://github.com/islandtrails/trails/tree/main/forestview-trail/shp) | [OpenStreetMap](https://www.openstreetmap.org/relation/12272586) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12272586&map=15.0/46.7282/-64.2637)
 | [Gairloch](https://islandtrails.ca/trails/gairloch-road-trail)
@@ -27,8 +27,9 @@ the Island-wide coverage of that project.
 
 These layers were, in March 2023, used to update these trails' routes in OpenStreetMap, as follows:
 
-1. The JOSM editor, with the OpenData plugin, was used to download the OSM data and to open the shapefile for each trail.
+1. Downloaded the OSM data for each trail, plus the shapefile for each trail (using the Open Data plugin) into JOSM.
 2. Existing ways in OSM for each trail were deleted, with metadata and relation membership saved for later reference.
 3. The ways from the shapefile for each trail were copied and pasted into the OSM layer.
 4. Metadata and relation membership for each trail were updated.
-5. The resulting layer was uploaded to OSM.
+5. The built-in JOSM warnings and errors were used to clean up inconsistencies in the imported shapefile.
+6. The resulting layer was uploaded to OSM, maintaining the original relation.
