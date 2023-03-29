@@ -9,7 +9,7 @@ The route maps are derived from [GIS data gathered in the field](https://arcg.is
 by the PEI Department of Transportation and Infrastructure. Each trail's route was extraced from ESRI shapefiles extracted from
 the Island-wide coverage of that project, and the name of trail segments and trail surface preserved in the metadata.
 
-| Trail Website  | Shapefile  | GPX | OpenStreetMap | Waymwarked Trails |
+| Trail Website  | Shapefile  | GPX | OpenStreetMap | Waymarked Trails |
 |----|---|---|---|---|
 | [Black Marsh](https://islandtrails.ca/trail/north-cape-nature-trail/) | [Shapefile](https://github.com/islandtrails/trails/tree/main/black_marsh/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/black_marsh/gpx/black-marsh.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15648482) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15648482&type=relation&map=15.0/47.0494/-64.0048)
 | [Bonshaw](https://islandtrails.ca/trail/bonshaw-trails/) | [Shapefile](https://github.com/islandtrails/trails/tree/main/bonshaw/shp)| [GPX](https://github.com/islandtrails/trails/blob/main/bonshaw/gpx/bonshaw.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/5739225) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5739225&map=14.0/46.211/-63.3431)
