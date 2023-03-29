@@ -34,5 +34,8 @@ These layers were, in March 2023, used to update these trails' routes in OpenStr
  * "T_Type=Natural Walking" becomes "surface:dirt"
  * "T_Type=Boardwalk" becomes "surface:wood"
  * "Trail:[trail name]" becomes "name:[trail name]"
-5. The built-in JOSM warnings and errors were used to clean up inconsistencies in the imported shapefile.
+ * "network" was set to "lwn" (Local Walking Network)
+ * "operator" was set to "Island Trails"
+ * For trails that form a loop, "roundtrip:yes" was set.
+5. The built-in JOSM warnings and errors were used to clean up inconsistencies in the imported shapefile; this mostly flagged situations in the Recreation PEI imported shapefiles where multiple points appeared at the same place/
 6. The resulting layer was uploaded to OSM, maintaining the original relation.
