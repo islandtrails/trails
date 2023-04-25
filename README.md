@@ -9,7 +9,9 @@ The route maps are derived from [GIS data gathered in the field](https://arcg.is
 by the PEI Department of Transportation and Infrastructure. Each trail's route was extraced from ESRI shapefiles extracted from
 the Island-wide coverage of that project, and the name of trail segments and trail surface preserved in the metadata.
 
-| Trail Website  | Shapefile  | GPX | OpenStreetMap | Waymarked Trails |
+## Island Trails Managed Trails
+
+| Trail | Shapefile  | GPX | OpenStreetMap | Waymarked Trails |
 |----|---|---|---|---|
 | [Black Marsh](https://islandtrails.ca/trail/north-cape-nature-trail/) | [Shapefile](https://github.com/islandtrails/trails/tree/main/black_marsh/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/black_marsh/gpx/black-marsh.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15648482) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15648482&type=relation&map=15.0/47.0494/-64.0048)
 | [Bonshaw](https://islandtrails.ca/trail/bonshaw-trails/) | [Shapefile](https://github.com/islandtrails/trails/tree/main/bonshaw/shp)| [GPX](https://github.com/islandtrails/trails/blob/main/bonshaw/gpx/bonshaw.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/5739225) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5739225&map=14.0/46.211/-63.3431)
@@ -23,19 +25,38 @@ the Island-wide coverage of that project, and the name of trail segments and tra
 | [Strathgartney](https://islandtrails.ca/trails/bonshaw-trails) | [Shapefile](https://github.com/islandtrails/trails/tree/main/strathgartney/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/strathgartney/gpx/strathgartney.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/5741285) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5741285&map=15.0/46.2063/-63.339)
 | [Winter River](https://islandtrails.ca/trails/winter-river-trail) | [Shapefile](https://github.com/islandtrails/trails/tree/main/winter_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/winter_river/gpx/winter_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12264597) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12264597&map=15.0/46.3556/-63.0644)
 
+## Other Prince Edward Island Trails
+
+| Trail Website  | Shapefile  | GPX | OpenStreetMap | Waymarked Trails |
+|----|---|---|---|---|
+| MacDonald's River Hiking Trail | [Shapefile](https://github.com/islandtrails/trails/tree/main/macdonalds_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/macdonalds_river/gpx/macdonalds_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15766399) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15766399&map=14.0/46.68/-64.0552)
+
 ## Updating OpenStreetMap
 
-These layers were, in March 2023, used to update these trails' routes in OpenStreetMap, as follows:
+These layers were, in March 2023, used to update these trails' routes in OpenStreetMap, as follows, for each trail:
 
-* Downloaded the OSM data for each trail, plus the shapefile for each trail (using the Open Data plugin) into JOSM.
-* Existing ways in OSM for each trail were deleted, with metadata and relation membership saved for later reference.
-* The ways from the shapefile for each trail were copied and pasted into the OSM layer.
-* Metadata and relation membership for each trail were updated, with the following translations:
-  * "T_Type=Natural Walking" becomes "surface:dirt"
-  * "T_Type=Boardwalk" becomes "surface:wood"
+* Extracted a shapefile from the master Recreation PEI shapefile, and saved, preserving the T_Type, Trail, T_Name, and Manager metadata.
+* In JOSM, downloaded the OSM data for each trail's area, and loaded the extracted shapefile for the trail as a separate JOSM layer (using the Open Data plugin).
+* If the trail already existed in OpenStreetMap, existing ways in OSM for the trail were deleted, with metadata and relation membership saved for later reference.
+* In the shapefile layer for the trail, selected the ways (Find > type:way) and applied the following metadat:
+  * foot:yes
+  * highway:path
+  * name:[trail segment name or trail name]
+  * surface:
+    * "T_Type=Natural Walking" becomes "surface:dirt"
+    * "T_Type=Boardwalk" becomes "surface:wood"
+* After adding the ways from the shapefile for each trail were copied and pasted into the OSM layer.
+* If an existing trail relation was present in OpenStreetMap, metadata and relation membership for each trail were updated, with the following translations:
   * "Trail:[trail name]" becomes "name:[trail name]"
   * "network" was set to "lwn" (Local Walking Network)
   * "operator" was set to "Island Trails"
   * For trails that form a loop, "roundtrip:yes" was set.
+  * "source" set to "survey"
+* If an existing trail relation was *not* present, then a new relation was created, with the following metadata:
+  * "Trail:[trail name]" becomes "name:[trail name]"
+  * "network" was set to "lwn" (Local Walking Network)
+  * "operator" was set to "Island Trails" (or, in the case of trails managed by others, the Manager from the Recreation PEI file)
+  * "route" set to "hiking"
+  * "type" set to "route"
 * The built-in JOSM warnings and errors were used to clean up inconsistencies in the imported shapefile; this mostly flagged situations in the Recreation PEI imported shapefiles where multiple points appeared at the same place/
 * The resulting layer was uploaded to OSM, maintaining the original relation.
