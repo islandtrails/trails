@@ -29,7 +29,7 @@ the Island-wide coverage of that project, and the name of trail segments and tra
 
 | Trail Website  | Shapefile  | GPX | OpenStreetMap | Waymarked Trails |
 |----|---|---|---|---|
-| MacDonald's River Hiking Trail | [Shapefile](https://github.com/islandtrails/trails/tree/main/macdonalds_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/macdonalds_river/gpx/macdonalds_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15766399) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15766399&map=14.0/46.68/-64.0552)
+| MacDonald's River | [Shapefile](https://github.com/islandtrails/trails/tree/main/macdonalds_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/macdonalds_river/gpx/macdonalds_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15766399) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15766399&map=14.0/46.68/-64.0552)
 
 ## Updating OpenStreetMap
 
