@@ -29,125 +29,123 @@ the Island-wide coverage of that project, and the name of trail segments and tra
 
 | Trail Website  | Shapefile  | GPX | OpenStreetMap | Waymarked Trails |
 |----|---|---|---|---|
-| AA MacDonald Memorial Gardens | TBD | TBD | TBD | TBD |
+| AA MacDonald | TBD | TBD | TBD | TBD |
 | Airport AT | TBD | TBD | TBD | TBD |
 | Allisary Creek | TBD | TBD | TBD | TBD |
-| Andrews Pond Nature Trails | TBD | TBD | TBD | TBD |
-| Ardgowan National Historic Site | TBD | TBD | TBD | TBD |
+| Andrews Pond | TBD | TBD | TBD | TBD |
+| Ardgowan | TBD | TBD | TBD | TBD |
 | AT Path | TBD | TBD | TBD | TBD |
-| Auburn Demostration Woodlot Trails | TBD | TBD | TBD | TBD |
-| Barbara Green Natural Area | TBD | TBD | TBD | TBD |
+| Auburn | TBD | TBD | TBD | TBD |
+| Barbara Green  | TBD | TBD | TBD | TBD |
 | Beach Grove AT Trail | TBD | TBD | TBD | TBD |
 | Beach Grove Trails | TBD | TBD | TBD | TBD |
 | Beck Trail | TBD | TBD | TBD | TBD |
-| Blackbush Island Tide Walk | TBD | TBD | TBD | TBD |
-| Borden-Carleton Boardwalk | TBD | TBD | TBD | TBD |
-| Brackley AT | TBD | TBD | TBD | TBD |
+| Blackbush | TBD | TBD | TBD | TBD |
+| Borden-Carleton | TBD | TBD | TBD | TBD |
+| Brackley | TBD | TBD | TBD | TBD |
 | Brackley Commons | TBD | TBD | TBD | TBD |
-| Browns Court Connector | TBD | TBD | TBD | TBD |
-| Cabot Beach Trail | TBD | TBD | TBD | TBD |
-| Camp Tamawaby Trail | TBD | TBD | TBD | TBD |
-| Cardigan Trails | TBD | TBD | TBD | TBD |
-| Cavendish AT | TBD | TBD | TBD | TBD |
+| Browns Court | TBD | TBD | TBD | TBD |
+| Cabot Beach | TBD | TBD | TBD | TBD |
+| Camp Tamawaby  | TBD | TBD | TBD | TBD |
+| Cardigan  | TBD | TBD | TBD | TBD |
+| Cavendish  | TBD | TBD | TBD | TBD |
 | Cavendish Boardwalk | TBD | TBD | TBD | TBD |
-| Cedar Dunes Provincial Park | TBD | TBD | TBD | TBD |
+| Cedar Dunes | TBD | TBD | TBD | TBD |
 | Centennial Park | TBD | TBD | TBD | TBD |
-| Charlottetown Waterfront Boardwalk | TBD | TBD | TBD | TBD |
+| Charlottetown Waterfront  | TBD | TBD | TBD | TBD |
 | Community Garden Park | TBD | TBD | TBD | TBD |
 | Confederation Landing | TBD | TBD | TBD | TBD |
 | Connaught Square | TBD | TBD | TBD | TBD |
-| Devil's Punchbowl Trails | TBD | TBD | TBD | TBD |
-| Dunk River Nature Trail | TBD | TBD | TBD | TBD |
+| Devil's Punchbowl  | TBD | TBD | TBD | TBD |
+| Dunk River   | TBD | TBD | TBD | TBD |
 | Duvar Trail | TBD | TBD | TBD | TBD |
-| Farm Centre Legacy Garden | TBD | TBD | TBD | TBD |
-| Fishermen's Haven Park | TBD | TBD | TBD | TBD |
+| Farm Centre  | TBD | TBD | TBD | TBD |
+| Fishermen's Haven  | TBD | TBD | TBD | TBD |
 | Founders' Hall | TBD | TBD | TBD | TBD |
 | Foxley River | [Shapefile](https://github.com/islandtrails/trails/tree/main/foxley_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/foxley_river/gpx/foxley_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15766456) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15766456&map=17.0/46.6996/-64.0527)
 | Frank MacAulay Park | TBD | TBD | TBD | TBD |
-| Gateway Village Trail | TBD | TBD | TBD | TBD |
+| Gateway Village  | TBD | TBD | TBD | TBD |
 | Glen Stewart School | TBD | TBD | TBD | TBD |
-| Glenaladale Trails | TBD | TBD | TBD | TBD |
-| Gotjinaig Otaotioagl - The Path of our Forefathers | TBD | TBD | TBD | TBD |
-| Grand River Roundabout Trail | TBD | TBD | TBD | TBD |
-| Harvey Moore Willife Sanctuary | TBD | TBD | TBD | TBD |
-| Heather Moyse Heritage Park and Garden | TBD | TBD | TBD | TBD |
+| Glenaladale | TBD | TBD | TBD | TBD |
+| Gotjinaig Otaotioagl | TBD | TBD | TBD | TBD |
+| Grand River  | TBD | TBD | TBD | TBD |
+| Harvey Moore | TBD | TBD | TBD | TBD |
+| Heather Moyse | TBD | TBD | TBD | TBD |
 | Hermitage Creek | TBD | TBD | TBD | TBD |
-| Hillsborough Park Path | TBD | TBD | TBD | TBD |
-| Hillsborough River Path | TBD | TBD | TBD | TBD |
+| Hillsborough Park  | TBD | TBD | TBD | TBD |
+| Hillsborough River  | TBD | TBD | TBD | TBD |
 | Hillsborough Square | TBD | TBD | TBD | TBD |
-| Holland College Connector | TBD | TBD | TBD | TBD |
-| Hunter River Trail Access | TBD | TBD | TBD | TBD |
+| Holland College  | TBD | TBD | TBD | TBD |
+| Hunter River | TBD | TBD | TBD | TBD |
 | Hyde Pond | TBD | TBD | TBD | TBD |
 | Jesse Street | TBD | TBD | TBD | TBD |
-| John A Hogg - Kensington Public Forest | TBD | TBD | TBD | TBD |
+| John A Hogg | TBD | TBD | TBD | TBD |
 | Kelly's Trail | TBD | TBD | TBD | TBD |
-| Keppoch Rd AT | TBD | TBD | TBD | TBD |
-| Kildare Forest Natural Area | TBD | TBD | TBD | TBD |
+| Keppoch Rd  | TBD | TBD | TBD | TBD |
+| Kildare Forest | TBD | TBD | TBD | TBD |
 | Kings Square | TBD | TBD | TBD | TBD |
 | Lowther Park | TBD | TBD | TBD | TBD |
 | MacDonald's River | [Shapefile](https://github.com/islandtrails/trails/tree/main/macdonalds_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/macdonalds_river/gpx/macdonalds_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15766399) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15766399&map=14.0/46.68/-64.0552)
-| MacDonald's River Hiking Trail | TBD | TBD | TBD | TBD |
-| MacKinnon Dr AT | TBD | TBD | TBD | TBD |
-| MacPhail's Woods - Hillside to Elliot Park | TBD | TBD | TBD | TBD |
+| MacKinnon Dr | TBD | TBD | TBD | TBD |
 | MacPhails Woods Trails | TBD | TBD | TBD | TBD |
-| MacRae Dr AT | TBD | TBD | TBD | TBD |
-| Main Street - Hillside Meadows AT Connection | TBD | TBD | TBD | TBD |
-| Main Street AT | TBD | TBD | TBD | TBD |
-| Mark Arendz Pronincial Ski Park at Brookvale | TBD | TBD | TBD | TBD |
+| MacRae Dr  | TBD | TBD | TBD | TBD |
+| Hillside Meadow | TBD | TBD | TBD | TBD |
+| Main Street  | TBD | TBD | TBD | TBD |
+| Mark Arendz | TBD | TBD | TBD | TBD |
 | Memorial Square | TBD | TBD | TBD | TBD |
-| Mill River Trail | TBD | TBD | TBD | TBD |
+| Mill River  | TBD | TBD | TBD | TBD |
 | Montague Marina | TBD | TBD | TBD | TBD |
 | Montgomery Park | TBD | TBD | TBD | TBD |
 | Mooney's Pond | TBD | TBD | TBD | TBD |
-| New Glasgow Boardwalk | TBD | TBD | TBD | TBD |
-| New Harmony Demo Woodlot | TBD | TBD | TBD | TBD |
-| North River AT | TBD | TBD | TBD | TBD |
-| North Rustico Greenspace Walking Trail | TBD | TBD | TBD | TBD |
+| New Glasgow  | TBD | TBD | TBD | TBD |
+| New Harmony | TBD | TBD | TBD | TBD |
+| North River  | TBD | TBD | TBD | TBD |
+| North Rustico  | TBD | TBD | TBD | TBD |
 | Old Mill Park | TBD | TBD | TBD | TBD |
 | Old Protestant Burial Grounds | TBD | TBD | TBD | TBD |
 | Orlebar Park | TBD | TBD | TBD | TBD |
-| Park Corner Cape Trail | TBD | TBD | TBD | TBD |
-| Park Street Connector | TBD | TBD | TBD | TBD |
+| Park Corner  | TBD | TBD | TBD | TBD |
+| Park Street  | TBD | TBD | TBD | TBD |
 | Peakes Quay | TBD | TBD | TBD | TBD |
-| Prince Edward Island National Park | TBD | TBD | TBD | TBD |
-| Queen Elizabeth Park Trail | TBD | TBD | TBD | TBD |
+| PEI  National Park | TBD | TBD | TBD | TBD |
+| Queen Elizabeth Park  | TBD | TBD | TBD | TBD |
 | Rackham's Community Pond | TBD | TBD | TBD | TBD |
-| Riverside Dr AT | TBD | TBD | TBD | TBD |
-| Riverview Estates Connector Path | TBD | TBD | TBD | TBD |
-| Robert L Cotton Memorial Park | TBD | TBD | TBD | TBD |
-| Robinsons Island Trail System (R.I.T.S) | TBD | TBD | TBD | TBD |
+| Riverside Dr  | TBD | TBD | TBD | TBD |
+| Riverview Estates | TBD | TBD | TBD | TBD |
+| Robert L Cotton | TBD | TBD | TBD | TBD |
+| Robinsons Island | TBD | TBD | TBD | TBD |
 | Rochford Square | TBD | TBD | TBD | TBD |
-| Roma at Three Rivers | TBD | TBD | TBD | TBD |
-| Roseville Pond Natural Area | TBD | TBD | TBD | TBD |
+| Roma | TBD | TBD | TBD | TBD |
+| Roseville Pond | TBD | TBD | TBD | TBD |
 | Rotary Friendship Park | TBD | TBD | TBD | TBD |
-| Scotchfort Wallking Path | TBD | TBD | TBD | TBD |
+| Rustico  | TBD | TBD | TBD | TBD |
+| Scotchfort | TBD | TBD | TBD | TBD |
 | Shore Access | TBD | TBD | TBD | TBD |
-| Simmons Sports Field | TBD | TBD | TBD | TBD |
-| Skmaqn - Port-la-Joye - Fort Amherst Trails | TBD | TBD | TBD | TBD |
-| Skyewater Trails | TBD | TBD | TBD | TBD |
+| Simmons | TBD | TBD | TBD | TBD |
+| Skmaqn | TBD | TBD | TBD | TBD |
+| Skyewater  | TBD | TBD | TBD | TBD |
 | Skyview Park | TBD | TBD | TBD | TBD |
-| Slemon Park Confederation Trail Connector | TBD | TBD | TBD | TBD |
+| Slemon Park  | TBD | TBD | TBD | TBD |
 | Slemon Park Pathways | TBD | TBD | TBD | TBD |
-| Souris Striders Ski Club Trails | TBD | TBD | TBD | TBD |
-| St Peters Boardwalk and Pathways | TBD | TBD | TBD | TBD |
-| St Peters Rd AT | TBD | TBD | TBD | TBD |
-| Stanhope AT | TBD | TBD | TBD | TBD |
-| Stratford TCH AT | TBD | TBD | TBD | TBD |
-| Stratford Trails | TBD | TBD | TBD | TBD |
+| Souris Striders  | TBD | TBD | TBD | TBD |
+| St Peters  | TBD | TBD | TBD | TBD |
+| St Peters Rd | TBD | TBD | TBD | TBD |
+| Stanhope  | TBD | TBD | TBD | TBD |
+| Stratford TCH | TBD | TBD | TBD | TBD |
+| Stratford  | TBD | TBD | TBD | TBD |
 | Summerside Baywalk | TBD | TBD | TBD | TBD |
-| Summerside Connector Trail | TBD | TBD | TBD | TBD |
-| Sunshine Meadows Trail | TBD | TBD | TBD | TBD |
-| Terry Fox Sports Cpmplex | TBD | TBD | TBD | TBD |
-| The Rustico Promenade | TBD | TBD | TBD | TBD |
-| Townshend Woodlot Trail | TBD | TBD | TBD | TBD |
-| Trout River Community Park | TBD | TBD | TBD | TBD |
-| Trout River Natural Area | [Shapefile](https://github.com/islandtrails/trails/tree/main/trout_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/trout_river/gpx/trout_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12346599) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12346599&map=15.0/46.6975/-64.1709)
-| Tryon River Trail | TBD | TBD | TBD | TBD |
-| Tryon Trail Extension | TBD | TBD | TBD | TBD |
-| UPEI Trail | TBD | TBD | TBD | TBD |
-| Upton Farmlands | TBD | TBD | TBD | TBD |
+| Summerside Connector | TBD | TBD | TBD | TBD |
+| Sunshine Meadows | TBD | TBD | TBD | TBD |
+| Terry Fox | TBD | TBD | TBD | TBD |
+| Townshend | TBD | TBD | TBD | TBD |
+| Trout River Community  | TBD | TBD | TBD | TBD |
+| Trout River  | [Shapefile](https://github.com/islandtrails/trails/tree/main/trout_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/trout_river/gpx/trout_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12346599) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12346599&map=15.0/46.6975/-64.1709)
+| Tryon River  | TBD | TBD | TBD | TBD |
+| Tryon Trail  | TBD | TBD | TBD | TBD |
+| UPEI  | TBD | TBD | TBD | TBD |
+| Upton  | TBD | TBD | TBD | TBD |
 | Upton Rd AT | TBD | TBD | TBD | TBD |
-| Valleyfield Demo Woodlot | TBD | TBD | TBD | TBD |
+| Valleyfield  | TBD | TBD | TBD | TBD |
 | Victoria Park | TBD | TBD | TBD | TBD |
 
 ## Updating OpenStreetMap
