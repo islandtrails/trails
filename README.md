@@ -25,128 +25,138 @@ the Island-wide coverage of that project, and the name of trail segments and tra
 | [Strathgartney](https://islandtrails.ca/trails/bonshaw-trails) | [Shapefile](https://github.com/islandtrails/trails/tree/main/strathgartney/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/strathgartney/gpx/strathgartney.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/5741285) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5741285&map=15.0/46.2063/-63.339)
 | [Winter River](https://islandtrails.ca/trails/winter-river-trail) | [Shapefile](https://github.com/islandtrails/trails/tree/main/winter_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/winter_river/gpx/winter_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12264597) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12264597&map=15.0/46.3556/-63.0644)
 
-## Other Prince Edward Island Trails
+## Other Prince Edward Island Trails -- Updated in OpenStreetMap
+
+These trails are not managed by Island Trails, will be updated from the Recreation PEI survey in OpenStreetMap:
 
 | Trail | Shapefile  | GPX | OpenStreetMap | Waymarked Trails |
 |----|---|---|---|---|
-| AA MacDonald | TBD | TBD | TBD | TBD |
-| Airport AT | TBD | TBD | TBD | TBD |
-| Allisary Creek | TBD | TBD | TBD | TBD |
 | Andrews Pond | TBD | TBD | TBD | TBD |
 | Ardgowan | TBD | TBD | TBD | TBD |
-| AT Path | TBD | TBD | TBD | TBD |
 | Auburn | TBD | TBD | TBD | TBD |
 | Barbara Green  | TBD | TBD | TBD | TBD |
 | Beach Grove AT Trail | TBD | TBD | TBD | TBD |
 | Beach Grove Trails | TBD | TBD | TBD | TBD |
 | Beck Trail | TBD | TBD | TBD | TBD |
-| Blackbush | TBD | TBD | TBD | TBD |
-| Borden-Carleton | TBD | TBD | TBD | TBD |
-| Brackley | TBD | TBD | TBD | TBD |
 | Brackley Commons | TBD | TBD | TBD | TBD |
-| Browns Court | TBD | TBD | TBD | TBD |
-| Cabot Beach | TBD | TBD | TBD | TBD |
 | Camp Tamawaby  | TBD | TBD | TBD | TBD |
 | Cardigan  | TBD | TBD | TBD | TBD |
 | Cavendish  | TBD | TBD | TBD | TBD |
-| Cavendish Boardwalk | TBD | TBD | TBD | TBD |
 | Cedar Dunes | TBD | TBD | TBD | TBD |
-| Centennial Park | TBD | TBD | TBD | TBD |
 | Charlottetown Waterfront  | TBD | TBD | TBD | TBD |
-| Community Garden Park | TBD | TBD | TBD | TBD |
-| Confederation Landing | TBD | TBD | TBD | TBD |
-| Connaught Square | TBD | TBD | TBD | TBD |
 | Devil's Punchbowl  | TBD | TBD | TBD | TBD |
 | Dunk River   | TBD | TBD | TBD | TBD |
-| Duvar Trail | TBD | TBD | TBD | TBD |
-| Farm Centre  | TBD | TBD | TBD | TBD |
-| Fishermen's Haven  | TBD | TBD | TBD | TBD |
-| Founders' Hall | TBD | TBD | TBD | TBD |
 | Foxley River | [Shapefile](https://github.com/islandtrails/trails/tree/main/foxley_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/foxley_river/gpx/foxley_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15766456) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15766456&map=17.0/46.6996/-64.0527)
-| Frank MacAulay Park | TBD | TBD | TBD | TBD |
-| Gateway Village  | TBD | TBD | TBD | TBD |
-| Glen Stewart School | TBD | TBD | TBD | TBD |
 | Glenaladale | TBD | TBD | TBD | TBD |
 | Gotjinaig Otaotioagl | TBD | TBD | TBD | TBD |
-| Grand River  | TBD | TBD | TBD | TBD |
 | Harvey Moore | TBD | TBD | TBD | TBD |
 | Heather Moyse | TBD | TBD | TBD | TBD |
 | Hermitage Creek | TBD | TBD | TBD | TBD |
 | Hillsborough Park  | TBD | TBD | TBD | TBD |
 | Hillsborough River  | TBD | TBD | TBD | TBD |
-| Hillsborough Square | TBD | TBD | TBD | TBD |
-| Holland College  | TBD | TBD | TBD | TBD |
-| Hunter River | TBD | TBD | TBD | TBD |
 | Hyde Pond | TBD | TBD | TBD | TBD |
-| Jesse Street | TBD | TBD | TBD | TBD |
 | John A Hogg | TBD | TBD | TBD | TBD |
 | Kelly's Trail | TBD | TBD | TBD | TBD |
-| Keppoch Rd  | TBD | TBD | TBD | TBD |
 | Kildare Forest | TBD | TBD | TBD | TBD |
 | Kings Square | TBD | TBD | TBD | TBD |
-| Lowther Park | TBD | TBD | TBD | TBD |
 | MacDonald's River | [Shapefile](https://github.com/islandtrails/trails/tree/main/macdonalds_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/macdonalds_river/gpx/macdonalds_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15766399) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15766399&map=14.0/46.68/-64.0552)
-| MacKinnon Dr | TBD | TBD | TBD | TBD |
 | MacPhails Woods Trails | TBD | TBD | TBD | TBD |
-| MacRae Dr  | TBD | TBD | TBD | TBD |
-| Hillside Meadow | TBD | TBD | TBD | TBD |
-| Main Street  | TBD | TBD | TBD | TBD |
 | Mark Arendz | TBD | TBD | TBD | TBD |
-| Memorial Square | TBD | TBD | TBD | TBD |
 | Mill River  | TBD | TBD | TBD | TBD |
-| Montague Marina | TBD | TBD | TBD | TBD |
-| Montgomery Park | TBD | TBD | TBD | TBD |
 | Mooney's Pond | TBD | TBD | TBD | TBD |
-| New Glasgow  | TBD | TBD | TBD | TBD |
 | New Harmony | TBD | TBD | TBD | TBD |
-| North River  | TBD | TBD | TBD | TBD |
 | North Rustico  | TBD | TBD | TBD | TBD |
-| Old Mill Park | TBD | TBD | TBD | TBD |
-| Old Protestant Burial Grounds | TBD | TBD | TBD | TBD |
-| Orlebar Park | TBD | TBD | TBD | TBD |
-| Park Corner  | TBD | TBD | TBD | TBD |
-| Park Street  | TBD | TBD | TBD | TBD |
-| Peakes Quay | TBD | TBD | TBD | TBD |
 | PEI  National Park | TBD | TBD | TBD | TBD |
 | Queen Elizabeth Park  | TBD | TBD | TBD | TBD |
 | Rackham's Community Pond | TBD | TBD | TBD | TBD |
 | Riverside Dr  | TBD | TBD | TBD | TBD |
-| Riverview Estates | TBD | TBD | TBD | TBD |
 | Robert L Cotton | TBD | TBD | TBD | TBD |
-| Robinsons Island | TBD | TBD | TBD | TBD |
-| Rochford Square | TBD | TBD | TBD | TBD |
 | Roma | TBD | TBD | TBD | TBD |
 | Roseville Pond | TBD | TBD | TBD | TBD |
 | Rotary Friendship Park | TBD | TBD | TBD | TBD |
-| Rustico  | TBD | TBD | TBD | TBD |
-| Scotchfort | TBD | TBD | TBD | TBD |
-| Shore Access | TBD | TBD | TBD | TBD |
-| Simmons | TBD | TBD | TBD | TBD |
 | Skmaqn | TBD | TBD | TBD | TBD |
-| Skyewater  | TBD | TBD | TBD | TBD |
-| Skyview Park | TBD | TBD | TBD | TBD |
 | Slemon Park  | TBD | TBD | TBD | TBD |
-| Slemon Park Pathways | TBD | TBD | TBD | TBD |
 | Souris Striders  | TBD | TBD | TBD | TBD |
-| St Peters  | TBD | TBD | TBD | TBD |
-| St Peters Rd | TBD | TBD | TBD | TBD |
-| Stanhope  | TBD | TBD | TBD | TBD |
-| Stratford TCH | TBD | TBD | TBD | TBD |
-| Stratford  | TBD | TBD | TBD | TBD |
-| Summerside Baywalk | TBD | TBD | TBD | TBD |
 | Summerside Connector | TBD | TBD | TBD | TBD |
-| Sunshine Meadows | TBD | TBD | TBD | TBD |
-| Terry Fox | TBD | TBD | TBD | TBD |
 | Townshend | TBD | TBD | TBD | TBD |
 | Trout River Community  | TBD | TBD | TBD | TBD |
 | Trout River  | [Shapefile](https://github.com/islandtrails/trails/tree/main/trout_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/trout_river/gpx/trout_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12346599) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12346599&map=15.0/46.6975/-64.1709)
 | Tryon River  | TBD | TBD | TBD | TBD |
 | Tryon Trail  | TBD | TBD | TBD | TBD |
-| UPEI  | TBD | TBD | TBD | TBD |
 | Upton  | TBD | TBD | TBD | TBD |
-| Upton Rd AT | TBD | TBD | TBD | TBD |
 | Valleyfield  | TBD | TBD | TBD | TBD |
 | Victoria Park | TBD | TBD | TBD | TBD |
+
+## Other Prince Edward Island Trails - Not Updated
+
+These trails, part of the Recreation PEI survey, have *not* been updated in OpenStreetMap, as they are minor, short, or urban trails or boardwalks:
+
+| Trail |
+|----|
+| AA MacDonald |
+| Airport AT |
+| Allisary Creek |
+| AT Path |
+| Blackbush |
+| Borden-Carleton |
+| Brackley |
+| Browns Court |
+| Cabot Beach |
+| Cavendish Boardwalk |
+| Centennial Park |
+| Community Garden Park |
+| Confederation Landing |
+| Connaught Square |
+| Duvar Trail |
+| Farm Centre  |
+| Fishermen's Haven  |
+| Founders' Hall |
+| Frank MacAulay Park |
+| Gateway Village  |
+| Glen Stewart School |
+| Grand River  |
+| Hillsborough Square |
+| Holland College  |
+| Hunter River |
+| Jesse Street |
+| Keppoch Rd  |
+| Lowther Park |
+| MacKinnon Dr |
+| MacRae Dr  |
+| Hillside Meadow |
+| Main Street  |
+| Memorial Square |
+| Montague Marina |
+| Montgomery Park |
+| New Glasgow  |
+| North River  |
+| Old Mill Park |
+| Old Protestant Burial Grounds |
+| Orlebar Park |
+| Park Corner  |
+| Park Street  |
+| Peakes Quay |
+| Riverview Estates |
+| Robinsons Island |
+| Rochford Square |
+| Rustico  |
+| Scotchfort |
+| Shore Access |
+| Simmons |
+| Skyewater  |
+| Skyview Park |
+| Slemon Park Pathways |
+| St Peters  |
+| St Peters Rd |
+| Stanhope  |
+| Stratford TCH |
+| Stratford  |
+| Summerside Baywalk |
+| Sunshine Meadows |
+| Terry Fox |
+| UPEI  |
+| Upton Rd AT |
+
 
 ## Updating OpenStreetMap
 
