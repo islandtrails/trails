@@ -27,7 +27,7 @@ the Island-wide coverage of that project, and the name of trail segments and tra
 
 ## Other Prince Edward Island Trails
 
-| Trail Website  | Shapefile  | GPX | OpenStreetMap | Waymarked Trails |
+| Trail | Shapefile  | GPX | OpenStreetMap | Waymarked Trails |
 |----|---|---|---|---|
 | AA MacDonald | TBD | TBD | TBD | TBD |
 | Airport AT | TBD | TBD | TBD | TBD |
