@@ -32,7 +32,7 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 | Trail | Shapefile  | GPX | OpenStreetMap | Waymarked Trails |
 |----|---|---|---|---|
 | Andrews Pond | TBD | TBD | TBD | TBD |
-| Ardgowan | TBD | TBD | TBD | TBD |
+| Ardgowan | [Shapefile](https://github.com/islandtrails/trails/tree/main/ardgowan/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/ardgowan/gpx/ardgowan.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15771798) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15771798&type=relation&map=18.0/46.2517/-63.1265) |
 | Auburn | TBD | TBD | TBD | TBD |
 | Barbara Green  | TBD | TBD | TBD | TBD |
 | Beach Grove AT | TBD | TBD | TBD | TBD |
