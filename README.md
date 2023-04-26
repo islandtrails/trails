@@ -33,8 +33,8 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 |----|---|---|---|---|
 | Andrews Pond | TBD | TBD | TBD | TBD |
 | Ardgowan | [Shapefile](https://github.com/islandtrails/trails/tree/main/ardgowan/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/ardgowan/gpx/ardgowan.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15771798) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15771798&type=relation&map=18.0/46.2517/-63.1265) |
-| Auburn | TBD | TBD | TBD | TBD |
-| Barbara Green  | TBD | TBD | TBD | TBD |
+| Auburn | [Shapefile](https://github.com/islandtrails/trails/tree/main/auburn/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/auburn/gpx/auburn.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/5746789) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5746789&map=17.0/46.2906/-62.9144) |
+| Barbara Green  | [Shapefile](https://github.com/islandtrails/trails/tree/main/barbara_green/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/barbara_green/gpx/barbara_green.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15771890) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15771890&type=relation&map=18.0/46.2421/-63.5484) |
 | Beach Grove AT | TBD | TBD | TBD | TBD |
 | Beach Grove  | TBD | TBD | TBD | TBD |
 | Beck Trail | TBD | TBD | TBD | TBD |
@@ -80,8 +80,8 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 | Townshend | TBD | TBD | TBD | TBD |
 | Trout River Community  | TBD | TBD | TBD | TBD |
 | Trout River  | [Shapefile](https://github.com/islandtrails/trails/tree/main/trout_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/trout_river/gpx/trout_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12346599) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12346599&map=15.0/46.6975/-64.1709)
-| Tryon River  | TBD | TBD | TBD | TBD |
-| Tryon Trail  | TBD | TBD | TBD | TBD |
+| Tryon River  | [Shapefile](https://github.com/islandtrails/trails/tree/main/tryon_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/tryon_river/gpx/tryon_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15771889) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15771889&map=17.0/46.2405/-63.5448)
+| Tryon Extension  | [Shapefile](https://github.com/islandtrails/trails/tree/main/tryon_trail/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/tryon_trail/gpx/tryon_trail.gpx) | [OpenStreetMap](https://www.openstreetmap.org/way/1165983403) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15771888&map=16.0/46.2441/-63.5523)
 | Upton  | TBD | TBD | TBD | TBD |
 | Valleyfield  | TBD | TBD | TBD | TBD |
 | Victoria Park | TBD | TBD | TBD | TBD |
