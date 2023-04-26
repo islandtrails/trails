@@ -41,7 +41,6 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 | Brackley Commons | TBD | TBD | TBD | TBD |
 | Camp Tamawaby | [Shapefile](https://github.com/islandtrails/trails/tree/main/camp_tamawaby/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/camp_tamawaby/gpx/camp_tamawaby.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/5746830) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5746830&type=relation&map=17.0/46.4786/-63.9578)
 | Cardigan  | TBD | TBD | TBD | TBD |
-| Cavendish  | TBD | TBD | TBD | TBD |
 | Cedar Dunes | TBD | TBD | TBD | TBD |
 | Charlottetown Waterfront  | TBD | TBD | TBD | TBD |
 | Devil's Punchbowl  | TBD | TBD | TBD | TBD |
@@ -102,6 +101,7 @@ These trails, part of the Recreation PEI survey, have *not* been updated in Open
 | Brackley |
 | Browns Court |
 | Cabot Beach |
+| Cavendish AT |
 | Cavendish Boardwalk |
 | Centennial Park |
 | Community Garden Park |
