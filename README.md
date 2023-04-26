@@ -35,11 +35,11 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 | Ardgowan | TBD | TBD | TBD | TBD |
 | Auburn | TBD | TBD | TBD | TBD |
 | Barbara Green  | TBD | TBD | TBD | TBD |
-| Beach Grove AT Trail | TBD | TBD | TBD | TBD |
-| Beach Grove Trails | TBD | TBD | TBD | TBD |
+| Beach Grove AT | TBD | TBD | TBD | TBD |
+| Beach Grove  | TBD | TBD | TBD | TBD |
 | Beck Trail | TBD | TBD | TBD | TBD |
 | Brackley Commons | TBD | TBD | TBD | TBD |
-| Camp Tamawaby  | TBD | TBD | TBD | TBD |
+| Camp Tamawaby | [Shapefile](https://github.com/islandtrails/trails/tree/main/camp_tamawaby/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/camp_tamawaby/gpx/camp_tamawaby.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/5746830) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5746830&type=relation&map=17.0/46.4786/-63.9578)
 | Cardigan  | TBD | TBD | TBD | TBD |
 | Cavendish  | TBD | TBD | TBD | TBD |
 | Cedar Dunes | TBD | TBD | TBD | TBD |
@@ -60,7 +60,7 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 | Kildare Forest | TBD | TBD | TBD | TBD |
 | Kings Square | TBD | TBD | TBD | TBD |
 | MacDonald's River | [Shapefile](https://github.com/islandtrails/trails/tree/main/macdonalds_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/macdonalds_river/gpx/macdonalds_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15766399) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15766399&map=14.0/46.68/-64.0552)
-| MacPhails Woods Trails | TBD | TBD | TBD | TBD |
+| MacPhails Woods | TBD | TBD | TBD | TBD |
 | Mark Arendz | TBD | TBD | TBD | TBD |
 | Mill River  | TBD | TBD | TBD | TBD |
 | Mooney's Pond | TBD | TBD | TBD | TBD |
