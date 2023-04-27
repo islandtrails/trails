@@ -40,7 +40,7 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 | Beck Trail | [Shapefile](https://github.com/islandtrails/trails/tree/main/beck_trail/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/beck_trail/gpx/beck_trail.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/5752497) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5752497&map=16.0/46.0369/-62.6155) |
 | Brackley Commons | [Shapefile](https://github.com/islandtrails/trails/tree/main/brackley_commons/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/brackley_commons/gpx/brackley_commons.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15776261) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15776261&type=relation&map=18.0/46.2941/-63.1395) |
 | Camp Tamawaby | [Shapefile](https://github.com/islandtrails/trails/tree/main/camp_tamawaby/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/camp_tamawaby/gpx/camp_tamawaby.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/5746830) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5746830&type=relation&map=17.0/46.4786/-63.9578)
-| Cardigan  | TBD | TBD | TBD | TBD |
+| Cardigan | [Shapefile](https://github.com/islandtrails/trails/tree/main/cardigan/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/cardigan/gpx/cardigan.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12234572) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12234572&type=relation&map=15.0/46.2382/-62.6275)
 | Cedar Dunes | TBD | TBD | TBD | TBD |
 | Charlottetown Waterfront  | TBD | TBD | TBD | TBD |
 | Devil's Punchbowl  | TBD | TBD | TBD | TBD |
