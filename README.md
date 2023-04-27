@@ -31,7 +31,7 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 
 | Trail | Shapefile  | GPX | OpenStreetMap | Waymarked Trails |
 |----|---|---|---|---|
-| Andrews Pond | TBD | TBD | TBD | TBD |
+| Andrews Pond | [Shapefile](https://github.com/islandtrails/trails/tree/main/andrews_pond/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/andrews_pond/gpx/andrews_pond.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15775284) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15775284&type=relation&map=15.0/46.2732/-63.1025) |
 | Ardgowan | [Shapefile](https://github.com/islandtrails/trails/tree/main/ardgowan/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/ardgowan/gpx/ardgowan.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15771798) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15771798&type=relation&map=18.0/46.2517/-63.1265) |
 | Auburn | [Shapefile](https://github.com/islandtrails/trails/tree/main/auburn/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/auburn/gpx/auburn.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/5746789) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5746789&map=17.0/46.2906/-62.9144) |
 | Barbara Green  | [Shapefile](https://github.com/islandtrails/trails/tree/main/barbara_green/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/barbara_green/gpx/barbara_green.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15771890) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15771890&type=relation&map=18.0/46.2421/-63.5484) |
