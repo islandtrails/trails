@@ -83,7 +83,7 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 | Tryon River | [Shapefile](https://github.com/islandtrails/trails/tree/main/tryon_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/tryon_river/gpx/tryon_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15771889) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15771889&map=17.0/46.2405/-63.5448)
 | Tryon Extension | [Shapefile](https://github.com/islandtrails/trails/tree/main/tryon_trail/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/tryon_trail/gpx/tryon_trail.gpx) | [OpenStreetMap](https://www.openstreetmap.org/way/1165983403) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15771888&map=16.0/46.2441/-63.5523)
 | Upton | [Shapefile](https://github.com/islandtrails/trails/tree/main/upton/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/upton/gpx/upton.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15775460) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15775460&type=relation&map=16.0/46.2574/-63.1736)
-| Valleyfield  | TBD | TBD | TBD | TBD |
+| Valleyfield | [Shapefile](https://github.com/islandtrails/trails/tree/main/valleyfield/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/valleyfield/gpx/valleyfield.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/5746800) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5746800&type=relation&map=16.0/46.1371/-62.7194)
 | Victoria Park | TBD | TBD | TBD | TBD |
 
 ## Other Prince Edward Island Trails - Not Updated
