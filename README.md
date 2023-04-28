@@ -58,7 +58,7 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 | Kildare Forest | TBD | TBD | TBD | TBD |
 | Kings Square | TBD | TBD | TBD | TBD |
 | MacDonald's River | [Shapefile](https://github.com/islandtrails/trails/tree/main/macdonalds_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/macdonalds_river/gpx/macdonalds_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15766399) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15766399&map=14.0/46.68/-64.0552)
-| MacPhails Woods | TBD | TBD | TBD | TBD |
+| MacPhail Woods | [Shapefile](https://github.com/islandtrails/trails/tree/main/macphail_woods/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/macphail_woods/gpx/macphail_woods.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/6845796) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=6845796&map=17.0/46.1596/-62.8225)
 | Mark Arendz | TBD | TBD | TBD | TBD |
 | Mill River  | TBD | TBD | TBD | TBD |
 | Mooney's Pond | TBD | TBD | TBD | TBD |
