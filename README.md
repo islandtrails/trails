@@ -42,8 +42,7 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 | Camp Tamawaby | [Shapefile](https://github.com/islandtrails/trails/tree/main/camp_tamawaby/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/camp_tamawaby/gpx/camp_tamawaby.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/5746830) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5746830&type=relation&map=17.0/46.4786/-63.9578)
 | Cardigan | [Shapefile](https://github.com/islandtrails/trails/tree/main/cardigan/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/cardigan/gpx/cardigan.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12234572) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12234572&type=relation&map=15.0/46.2382/-62.6275)
 | Cedar Dunes | [Shapefile](https://github.com/islandtrails/trails/tree/main/cedar_dunes/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/cedar_dunes/gpx/cedar_dunes.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12343425) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12343425&type=relation&map=17.0/46.6197/-64.3798)
-| Charlottetown Waterfront  | TBD | TBD | TBD | TBD |
-| Devil's Punchbowl  | TBD | TBD | TBD | TBD |
+| Devil's Punchbowl | [Shapefile](https://github.com/islandtrails/trails/tree/main/devils_punchbowl/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/devils_punchbowl/gpx/devils_punchbowl.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/5757169) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5757169&type=relation&map=17.0/46.4095/-63.4853)
 | Dunk River | [Shapefile](https://github.com/islandtrails/trails/tree/main/dunk_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/dunk_river/gpx/dunk_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12250332) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12250332&map=16.0/46.3445/-63.6205)
 | Foxley River | [Shapefile](https://github.com/islandtrails/trails/tree/main/foxley_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/foxley_river/gpx/foxley_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15766456) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15766456&map=17.0/46.6996/-64.0527)
 | Glenaladale | TBD | TBD | TBD | TBD |
@@ -104,6 +103,7 @@ These trails, part of the Recreation PEI survey, have *not* been updated in Open
 | Cavendish AT |
 | Cavendish Boardwalk |
 | Centennial Park |
+| Charlottetown Waterfront |
 | Community Garden Park |
 | Confederation Landing |
 | Connaught Square |
