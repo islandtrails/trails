@@ -44,7 +44,7 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 | Cedar Dunes | [Shapefile](https://github.com/islandtrails/trails/tree/main/cedar_dunes/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/cedar_dunes/gpx/cedar_dunes.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12343425) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12343425&type=relation&map=17.0/46.6197/-64.3798)
 | Charlottetown Waterfront  | TBD | TBD | TBD | TBD |
 | Devil's Punchbowl  | TBD | TBD | TBD | TBD |
-| Dunk River   | TBD | TBD | TBD | TBD |
+| Dunk River | [Shapefile](https://github.com/islandtrails/trails/tree/main/dunk_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/dunk_river/gpx/dunk_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12250332) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12250332&map=16.0/46.3445/-63.6205)
 | Foxley River | [Shapefile](https://github.com/islandtrails/trails/tree/main/foxley_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/foxley_river/gpx/foxley_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15766456) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15766456&map=17.0/46.6996/-64.0527)
 | Glenaladale | TBD | TBD | TBD | TBD |
 | Gotjinaig Otaotioagl | TBD | TBD | TBD | TBD |
