@@ -45,8 +45,8 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 | Devil's Punchbowl | [Shapefile](https://github.com/islandtrails/trails/tree/main/devils_punchbowl/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/devils_punchbowl/gpx/devils_punchbowl.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/5757169) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5757169&type=relation&map=17.0/46.4095/-63.4853)
 | Dunk River | [Shapefile](https://github.com/islandtrails/trails/tree/main/dunk_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/dunk_river/gpx/dunk_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12250332) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12250332&map=16.0/46.3445/-63.6205)
 | Foxley River | [Shapefile](https://github.com/islandtrails/trails/tree/main/foxley_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/foxley_river/gpx/foxley_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15766456) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15766456&map=17.0/46.6996/-64.0527)
-| Glenaladale | TBD | TBD | TBD | TBD |
-| Gotjinaig Otaotioagl | TBD | TBD | TBD | TBD |
+| Glenaladale | [Shapefile](https://github.com/islandtrails/trails/tree/main/glenaladale/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/glenaladale/gpx/glenaladale.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15781607) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15781607&map=16.0/46.3607/-62.963)
+| Gotjinaig Otaotioagl | [Shapefile](https://github.com/islandtrails/trails/tree/main/gotjinaig_otaotioagl/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/gotjinaig_otaotioagl/gpx/gotjinaig_otaotioagl.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/13909086) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=13909086&map=14.0/46.6171/-63.8596)
 | Harvey Moore | TBD | TBD | TBD | TBD |
 | Heather Moyse | TBD | TBD | TBD | TBD |
 | Hermitage Creek | TBD | TBD | TBD | TBD |
