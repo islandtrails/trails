@@ -25,7 +25,7 @@ the Island-wide coverage of that project, and the name of trail segments and tra
 | [Strathgartney](https://islandtrails.ca/trails/bonshaw-trails) | [Shapefile](https://github.com/islandtrails/trails/tree/main/strathgartney/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/strathgartney/gpx/strathgartney.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/5741285) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=5741285&map=15.0/46.2063/-63.339)
 | [Winter River](https://islandtrails.ca/trails/winter-river-trail) | [Shapefile](https://github.com/islandtrails/trails/tree/main/winter_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/winter_river/gpx/winter_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12264597) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12264597&map=15.0/46.3556/-63.0644)
 
-## Other Prince Edward Island Trails -- Updated in OpenStreetMap
+## Other Prince Edward Island Trails — Updated in OpenStreetMap
 
 These trails are not managed by Island Trails, will be updated from the Recreation PEI survey in OpenStreetMap:
 
