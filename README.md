@@ -48,7 +48,7 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 | Glenaladale | [Shapefile](https://github.com/islandtrails/trails/tree/main/glenaladale/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/glenaladale/gpx/glenaladale.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15781607) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15781607&map=16.0/46.3607/-62.963)
 | Gotjinaig Otaotioagl | [Shapefile](https://github.com/islandtrails/trails/tree/main/gotjinaig_otaotioagl/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/gotjinaig_otaotioagl/gpx/gotjinaig_otaotioagl.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/13909086) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=13909086&map=14.0/46.6171/-63.8596)
 | Harvey Moore | [Shapefile](https://github.com/islandtrails/trails/tree/main/harvey_moore/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/harvey_moore/gpx/harvey_moore.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12745136) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12745136&map=17.0/46.1088/-62.6306)
-| Heather Moyse | TBD | TBD | TBD | TBD |
+| Heather Moyse| [Shapefile](https://github.com/islandtrails/trails/tree/main/heather_moyse/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/heather_moyse/gpx/heather_moyse.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15788726) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15788726&type=relation)
 | Hermitage Creek | TBD | TBD | TBD | TBD |
 | Hillsborough Park  | TBD | TBD | TBD | TBD |
 | Hillsborough River  | TBD | TBD | TBD | TBD |
