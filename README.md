@@ -56,10 +56,9 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 | John A Hogg | [Shapefile](https://github.com/islandtrails/trails/tree/main/john_a_hogg/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/john_a_hogg/gpx/john_a_hogg.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15794254) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15794254&map=16.0/46.4257/-63.6261)
 | Kelly's | [Shapefile](https://github.com/islandtrails/trails/tree/main/kellys_trail/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/kellys_trail/gpx/kellys_trail.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15794856) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15794856&type=relation&map=17.0/46.2995/-62.8176)
 | Kildare Forest  | [Shapefile](https://github.com/islandtrails/trails/tree/main/kildare_forest/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/kildare_forest/gpx/kildare_forest.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15794894) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15794894&map=16.0/46.8347/-64.0613)
-| Kings Square | TBD | TBD | TBD | TBD |
 | MacDonald's River | [Shapefile](https://github.com/islandtrails/trails/tree/main/macdonalds_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/macdonalds_river/gpx/macdonalds_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15766399) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15766399&map=14.0/46.68/-64.0552)
 | MacPhail Woods | [Shapefile](https://github.com/islandtrails/trails/tree/main/macphail_woods/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/macphail_woods/gpx/macphail_woods.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/6845796) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=6845796&map=17.0/46.1596/-62.8225)
-| Mark Arendz | TBD | TBD | TBD | TBD |
+| Mark Arendz | [Shapefile](https://github.com/islandtrails/trails/tree/main/mark_arendz/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/mark_arendz/gpx/mark_arendz.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15795341) | [Waymarked Trails](https://cycling.waymarkedtrails.org/#route?id=15795341&map=15.0/46.2702/-63.4199)
 | Mill River  | TBD | TBD | TBD | TBD |
 | Mooney's Pond | TBD | TBD | TBD | TBD |
 | New Harmony | TBD | TBD | TBD | TBD |
@@ -121,6 +120,7 @@ These trails, part of the Recreation PEI survey, have *not* been updated in Open
 | Hunter River |
 | Jesse Street |
 | Keppoch Rd  |
+| Kings Square |
 | Lowther Park |
 | MacKinnon Dr |
 | MacRae Dr  |
