@@ -50,9 +50,7 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 | Harvey Moore | [Shapefile](https://github.com/islandtrails/trails/tree/main/harvey_moore/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/harvey_moore/gpx/harvey_moore.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12745136) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12745136&map=17.0/46.1088/-62.6306)
 | Heather Moyse| [Shapefile](https://github.com/islandtrails/trails/tree/main/heather_moyse/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/heather_moyse/gpx/heather_moyse.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15788726) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15788726&type=relation)
 | Hermitage Creek | [Shapefile](https://github.com/islandtrails/trails/tree/main/hermitage_creek/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/hermitage_creek/gpx/hermitage_creek.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/6863918) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=6863918&map=16.0/46.2561/-63.1502)
-| Hermitage Creek | TBD | TBD | TBD | TBD |
-| Hillsborough Park  | TBD | TBD | TBD | TBD |
-| Hillsborough River  | TBD | TBD | TBD | TBD |
+| Hillsborough River | [Shapefile](https://github.com/islandtrails/trails/tree/main/hillsborough_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/hillsborough_river/gpx/hillsborough_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/8442984) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=8442984&map=16.0/46.2567/-63.0979)
 | Hyde Pond | TBD | TBD | TBD | TBD |
 | John A Hogg | TBD | TBD | TBD | TBD |
 | Kelly's Trail | TBD | TBD | TBD | TBD |
@@ -116,6 +114,7 @@ These trails, part of the Recreation PEI survey, have *not* been updated in Open
 | Gateway Village  |
 | Glen Stewart School |
 | Grand River  |
+| Hillsborough Park |
 | Hillsborough Square |
 | Holland College  |
 | Hunter River |
