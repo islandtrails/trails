@@ -60,6 +60,8 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 | MacPhail Woods | [Shapefile](https://github.com/islandtrails/trails/tree/main/macphail_woods/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/macphail_woods/gpx/macphail_woods.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/6845796) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=6845796&map=17.0/46.1596/-62.8225)
 | Mark Arendz | [Shapefile](https://github.com/islandtrails/trails/tree/main/mark_arendz/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/mark_arendz/gpx/mark_arendz.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15795341) | [Waymarked Trails](https://cycling.waymarkedtrails.org/#route?id=15795341&map=15.0/46.2702/-63.4199)
 | Mill River | [Shapefile](https://github.com/islandtrails/trails/tree/main/mill_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/mill_river/gpx/mill_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15795829) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15795829&type=relation&map=16.0/46.7417/-64.1635)
+| Mooney's Pond | [Shapefile](https://github.com/islandtrails/trails/tree/main/mooneys_pond/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/mooneys_pond/gpx/mooneys_pond.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15795846) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15795846&type=relation&map=16.0/46.2952/-62.7727)
+
 | Mooney's Pond | TBD | TBD | TBD | TBD |
 | New Harmony | TBD | TBD | TBD | TBD |
 | North Rustico  | TBD | TBD | TBD | TBD |
