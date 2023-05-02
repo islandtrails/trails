@@ -70,7 +70,7 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 | Robert L Cotton | TBD | TBD | TBD | TBD |
 | Roma | TBD | TBD | TBD | TBD |
 | Roseville Pond | TBD | TBD | TBD | TBD |
-| Rotary Friendship Park | TBD | TBD | TBD | TBD |
+| Rotary Friendship Park | [Shapefile](https://github.com/islandtrails/trails/tree/main/rotary_friendship_park/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/rotary_friendship_park/gpx/rotary_friendship_park.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12287872) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12287872&type=relation&map=15.0/46.4086/-63.7648)
 | Skmaqn | TBD | TBD | TBD | TBD |
 | Slemon Park  | TBD | TBD | TBD | TBD |
 | Souris Striders  | TBD | TBD | TBD | TBD |
