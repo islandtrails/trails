@@ -64,7 +64,7 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 | New Harmony| [Shapefile](https://github.com/islandtrails/trails/tree/main/new_harmony/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/new_harmony/gpx/new_harmony.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12239117) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12239117&map=15.0/46.3884/-62.2079)
 | North Rustico | [Shapefile](https://github.com/islandtrails/trails/tree/main/north_rustico/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/north_rustico/gpx/north_rustico.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15796218) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15796218&type=relation&map=18.0/46.4637/-63.3083)
 | PEI  National Park | TBD | TBD | TBD | TBD |
-| Queen Elizabeth Park  | TBD | TBD | TBD | TBD |
+| Queen Elizabeth Park | [Shapefile](https://github.com/islandtrails/trails/tree/main/queen_elizabeth_park/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/queen_elizabeth_park/gpx/queen_elizabeth_park.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/8455223) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=8455223&map=17.0/46.248/-63.1525)
 | Rackham's Community Pond | TBD | TBD | TBD | TBD |
 | Riverside Dr  | TBD | TBD | TBD | TBD |
 | Robert L Cotton | TBD | TBD | TBD | TBD |
