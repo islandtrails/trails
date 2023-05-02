@@ -76,7 +76,7 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 | Souris Striders  | TBD | TBD | TBD | TBD |
 | Summerside Connector | TBD | TBD | TBD | TBD |
 | Townshend | TBD | TBD | TBD | TBD |
-| Trout River Community  | TBD | TBD | TBD | TBD |
+| Trout River Community | [Shapefile](https://github.com/islandtrails/trails/tree/main/trout_river_community/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/trout_river_community/gpx/trout_river_community.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15798311) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15798311&map=17.0/46.4212/-63.4392)
 | Trout River | [Shapefile](https://github.com/islandtrails/trails/tree/main/trout_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/trout_river/gpx/trout_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12346599) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12346599&map=15.0/46.6975/-64.1709)
 | Tryon River | [Shapefile](https://github.com/islandtrails/trails/tree/main/tryon_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/tryon_river/gpx/tryon_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15771889) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15771889&map=17.0/46.2405/-63.5448)
 | Tryon Extension | [Shapefile](https://github.com/islandtrails/trails/tree/main/tryon_trail/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/tryon_trail/gpx/tryon_trail.gpx) | [OpenStreetMap](https://www.openstreetmap.org/way/1165983403) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15771888&map=16.0/46.2441/-63.5523)
