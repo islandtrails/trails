@@ -72,7 +72,7 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 | Roseville Pond | TBD | TBD | TBD | TBD |
 | Rotary Friendship Park | [Shapefile](https://github.com/islandtrails/trails/tree/main/rotary_friendship_park/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/rotary_friendship_park/gpx/rotary_friendship_park.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12287872) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12287872&type=relation&map=15.0/46.4086/-63.7648)
 | Skmaqn | [Shapefile](https://github.com/islandtrails/trails/tree/main/skmaqn/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/skmaqn/gpx/skmaqn.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/6889080) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=6889080&map=16.0/46.1956/-63.1392)
-| Slemon Park | [Shapefile](https://github.com/islandtrails/trails/tree/main/slemon_park/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/slemon_park/gpx/slemon_park.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15800189) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=6889080&map=16.0/46.1956/-63.1392)
+| Slemon Park | [Shapefile](https://github.com/islandtrails/trails/tree/main/slemon_park/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/slemon_park/gpx/slemon_park.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15800189) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15800189&map=16.0/46.433/-63.827)
 | Souris Striders  | TBD | TBD | TBD | TBD |
 | Summerside Connector | TBD | TBD | TBD | TBD |
 | Townshend | TBD | TBD | TBD | TBD |
