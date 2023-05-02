@@ -62,7 +62,7 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 | Mill River | [Shapefile](https://github.com/islandtrails/trails/tree/main/mill_river/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/mill_river/gpx/mill_river.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15795829) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15795829&type=relation&map=16.0/46.7417/-64.1635)
 | Mooney's Pond | [Shapefile](https://github.com/islandtrails/trails/tree/main/mooneys_pond/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/mooneys_pond/gpx/mooneys_pond.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15795846) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15795846&type=relation&map=16.0/46.2952/-62.7727)
 | New Harmony| [Shapefile](https://github.com/islandtrails/trails/tree/main/new_harmony/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/new_harmony/gpx/new_harmony.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12239117) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12239117&map=15.0/46.3884/-62.2079)
-| North Rustico  | TBD | TBD | TBD | TBD |
+| North Rustico | [Shapefile](https://github.com/islandtrails/trails/tree/main/north_rustico/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/north_rustico/gpx/north_rustico.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15796218) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15796218&type=relation&map=18.0/46.4637/-63.3083)
 | PEI  National Park | TBD | TBD | TBD | TBD |
 | Queen Elizabeth Park  | TBD | TBD | TBD | TBD |
 | Rackham's Community Pond | TBD | TBD | TBD | TBD |
