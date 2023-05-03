@@ -14,7 +14,7 @@ remove artifacts.
 
 ## Island Trails Managed Trails
 
-These trails are managed by [Island Trails](https://islandtrails.ca) and more detailed information on each [is available on the Island Trails website]](https://islandtrails.ca/trails/our-island-trails/).
+These trails are managed by [Island Trails](https://islandtrails.ca) and more detailed information on each [is available on the Island Trails website](https://islandtrails.ca/trails/our-island-trails/).
 
 These trails are collected together in an OpenStreetMap super-relation called [Island Trails](https://www.openstreetmap.org/relation/15803585) ([Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15803585)).
 
