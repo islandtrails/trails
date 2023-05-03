@@ -7,7 +7,9 @@ This repository contains route maps and related information for the 11 trails th
 
 The route maps are derived from [GIS data gathered in the field](https://arcg.is/1K1nDf2) by Recreation PEI and processed
 by the PEI Department of Transportation and Infrastructure. Each trail's route was extraced from ESRI shapefiles extracted from
-the Island-wide coverage of that project, and the name of trail segments and trail surface preserved in the metadata.
+the Island-wide coverage of that project, and the name of trail segments and trail surface preserved in the metadata. Minor
+edits to the Recreation PEI survey routes were made to connect trails to adjacent roads, to merge duplicate points, and to
+remove artifacts.
 
 ## Island Trails Managed Trails
 
@@ -66,14 +68,13 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 | PEI  National Park | TBD | TBD | TBD | TBD |
 | Queen Elizabeth Park | [Shapefile](https://github.com/islandtrails/trails/tree/main/queen_elizabeth_park/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/queen_elizabeth_park/gpx/queen_elizabeth_park.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/8455223) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=8455223&map=17.0/46.248/-63.1525)
 | Rackham's Community Pond | [Shapefile](https://github.com/islandtrails/trails/tree/main/rackhams_community_pond/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/rackhams_community_pond/gpx/rackhams_community_pond.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12490749) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12490749&map=16.0/46.3675/-63.2875)
-| Riverside Dr  | TBD | TBD | TBD | TBD |
 | Robert L. Cotton | [Shapefile](https://github.com/islandtrails/trails/tree/main/robertcotton/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/robertcotton/gpx/robertcotton.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15802968) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15802968&map=17.0/46.2339/-63.0953)
 | Roma | [Shapefile](https://github.com/islandtrails/trails/tree/main/roma/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/roma/gpx/roma.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15803065) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15803065&map=16.0/46.1854/-62.5641)
 | Roseville Pond | [Shapefile](https://github.com/islandtrails/trails/tree/main/roseville_pond/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/roseville_pond/gpx/roseville_pond.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15802904) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15802904&map=17.0/46.8247/-64.2636)
 | Rotary Friendship Park | [Shapefile](https://github.com/islandtrails/trails/tree/main/rotary_friendship_park/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/rotary_friendship_park/gpx/rotary_friendship_park.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12287872) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12287872&type=relation&map=15.0/46.4086/-63.7648)
 | Skmaqn | [Shapefile](https://github.com/islandtrails/trails/tree/main/skmaqn/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/skmaqn/gpx/skmaqn.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/6889080) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=6889080&map=16.0/46.1956/-63.1392)
 | Slemon Park | [Shapefile](https://github.com/islandtrails/trails/tree/main/slemon_park/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/slemon_park/gpx/slemon_park.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15800189) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15800189&map=16.0/46.433/-63.827)
-| Souris Striders  | TBD | TBD | TBD | TBD |
+| Souris Striders | [Shapefile](https://github.com/islandtrails/trails/tree/main/souris_striders/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/souris_striders/gpx/souris_striders.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15803228) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15800189&map=16.0/46.433/-63.827)
 | Summerside Connector | [Shapefile](https://github.com/islandtrails/trails/tree/main/summerside_connector/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/summerside_connector/gpx/summerside_connector.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15800880) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15800880&map=16.0/46.3931/-63.78)
 | Townshend | [Shapefile](https://github.com/islandtrails/trails/tree/main/townshend/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/townshend/gpx/townshend.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/12303381) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=12303381&map=15.0/46.4182/-62.2766)
 | Trout River Community | [Shapefile](https://github.com/islandtrails/trails/tree/main/trout_river_community/shp) | [GPX](https://github.com/islandtrails/trails/blob/main/trout_river_community/gpx/trout_river_community.gpx) | [OpenStreetMap](https://www.openstreetmap.org/relation/15798311) | [Waymarked Trails](https://hiking.waymarkedtrails.org/#route?id=15798311&map=17.0/46.4212/-63.4392)
@@ -86,7 +87,7 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 
 ## Other Prince Edward Island Trails - Not Updated
 
-These trails, part of the Recreation PEI survey, have *not* been updated in OpenStreetMap, as they are minor, short, or urban trails or boardwalks:
+These trails, part of the Recreation PEI survey, have *not* been updated in OpenStreetMap, as they are minor, short, or urban trails or boardwalks, or because a more complete and annotated version already existing in OpenStreetMap:
 
 | Trail |
 |----|
@@ -138,6 +139,7 @@ These trails, part of the Recreation PEI survey, have *not* been updated in Open
 | Park Street  |
 | Peakes Quay |
 | Riverview Estates |
+| Riverside Dr |
 | Robinsons Island |
 | Rochford Square |
 | Rustico  |
@@ -161,30 +163,35 @@ These trails, part of the Recreation PEI survey, have *not* been updated in Open
 
 ## Updating OpenStreetMap
 
-These layers were, in March 2023, used to update these trails' routes in OpenStreetMap, as follows, for each trail:
+These layers were, in March through May 2023, used to update these trails' routes in OpenStreetMap, as follows, for each trail:
 
-* Extracted a shapefile from the master Recreation PEI shapefile, and saved, preserving the T_Type, Trail, T_Name, and Manager metadata.
-* In JOSM, downloaded the OSM data for each trail's area, and loaded the extracted shapefile for the trail as a separate JOSM layer (using the Open Data plugin).
+* Shapefiles were wxtracted from the master Recreation PEI shapefile, and saved, preserving the T_Type, Trail, T_Name, and Manager metadata.
+* In the [JOSM Editor](https://josm.openstreetmap.de), OSM data for each trail's area was downloaded, along with the extracted shapefile for the trail (as a separate JOSM layer, using the Open Data plugin).
 * If the trail already existed in OpenStreetMap, existing ways in OSM for the trail were deleted, with metadata and relation membership saved for later reference.
-* In the shapefile layer for the trail, selected the ways (Find > type:way) and applied the following metadat:
+* In the shapefile layer for the trail, the ways for each were selected (Find > type:way) and the following metadata added:
   * foot:yes
+  * for multi-use trails, bicycle:yes
   * highway:path
   * name:[trail segment name or trail name]
   * surface:
-    * "T_Type=Natural Walking" becomes "surface:dirt"
+    * "T_Type=Natural*" becomes "surface:dirt"
     * "T_Type=Boardwalk" becomes "surface:wood"
-* After adding the ways from the shapefile for each trail were copied and pasted into the OSM layer.
+    * "T_Type=Hard*" becomes "surface:asphalt"
+    * "T_Type=Improved*" becomes "surface:gravel"
+* The ways from the imported shapefile for each trail were copied and pasted into the OSM layer.
 * If an existing trail relation was present in OpenStreetMap, metadata and relation membership for each trail were updated, with the following translations:
   * "Trail:[trail name]" becomes "name:[trail name]"
   * "network" was set to "lwn" (Local Walking Network)
-  * "operator" was set to "Island Trails"
+  * "operator" was set to "Island Trails" or the trail manager (Island Nature Trust, Provincial Forestry, etc.)
   * For trails that form a loop, "roundtrip:yes" was set.
   * "source" set to "survey"
-* If an existing trail relation was *not* present, then a new relation was created, with the following metadata:
+  * route:hiking
+  * type:route
+* If an existing trail relation was *not* present, then a *new* relation was created, with the following metadata:
   * "Trail:[trail name]" becomes "name:[trail name]"
   * "network" was set to "lwn" (Local Walking Network)
-  * "operator" was set to "Island Trails" (or, in the case of trails managed by others, the Manager from the Recreation PEI file)
-  * "route" set to "hiking"
-  * "type" set to "route"
-* The built-in JOSM warnings and errors were used to clean up inconsistencies in the imported shapefile; this mostly flagged situations in the Recreation PEI imported shapefiles where multiple points appeared at the same place/
-* The resulting layer was uploaded to OSM, maintaining the original relation.
+  * "operator" was set to "Island Trails" or the trail manager (Island Nature Trust, Provincial Forestry, etc.)
+  * route:hiking
+  * type:route
+* The built-in JOSM warnings and errors were used to clean up inconsistencies in the imported shapefile; this mostly flagged situations in the Recreation PEI imported shapefiles where multiple points appeared at the same place.
+* The resulting layer was uploaded to OSM, with a note indicating the update from Recreation PEI survey.
