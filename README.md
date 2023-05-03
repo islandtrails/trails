@@ -14,7 +14,7 @@ remove artifacts.
 
 ## Updating OpenStreetMap
 
-The process of updating OpenStreetMap proceeded, in March through May of 2023, with updates contracted to [Reinvented Inc.](https://reinvented.net).
+The process of updating OpenStreetMap proceeded, in March through May of 2023, with updates contracted to [Reinvented Inc.](https://reinvented.net) and carried out by Peter Rukavina.
  May 2023, used to update these trails' routes in OpenStreetMap, as follows, for each trail:
 
 * Shapefiles were wxtracted from the [master Recreation PEI shapefile](https://github.com/islandtrails/trails/tree/main/recreation_pei/shp) and saved, preserving the T_Type, Trail, T_Name, and Manager tags.
