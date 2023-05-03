@@ -12,6 +12,42 @@ the Island-wide coverage of that project, and the name of trail segments and tra
 edits to the Recreation PEI survey routes were made to connect trails to adjacent roads, to merge duplicate points, and to
 remove artifacts.
 
+## Updating OpenStreetMap
+
+The process of updating OpenStreetMap proceeded, in March through May of 2023, with updates contracted to [Reinvented Inc.](https://reinvented.net).
+ May 2023, used to update these trails' routes in OpenStreetMap, as follows, for each trail:
+
+* Shapefiles were wxtracted from the [master Recreation PEI shapefile](https://github.com/islandtrails/trails/tree/main/recreation_pei/shp) and saved, preserving the T_Type, Trail, T_Name, and Manager tags.
+* In the [JOSM Editor](https://josm.openstreetmap.de), OpenStreetMap data for each trail's area was downloaded, along with the extracted shapefile for the trail (as a separate JOSM layer, using the Open Data plugin).
+* If the trail *already* existed in OpenStreetMap, existing ways in OpenStreetMap for the trail were deleted, with metadata and relation membership saved for later reference.
+* In the shapefile layer for the trail, the ways for each were selected (Find > type:way) and the following metadata added:
+  * foot:yes
+  * for multi-use trails, bicycle:yes
+  * highway:path
+  * name:[trail segment name or trail name]
+  * surface:
+    * "T_Type=Natural*" becomes "surface:dirt"
+    * "T_Type=Boardwalk" becomes "surface:wood"
+    * "T_Type=Hard*" becomes "surface:asphalt"
+    * "T_Type=Improved*" becomes "surface:gravel"
+* The ways from the imported shapefile for each trail were copied and pasted into the OSM layer.
+* If an existing trail relation was present in OpenStreetMap, metadata and relation membership for each trail were updated, with the following translations:
+  * "Trail:[trail name]" becomes "name:[trail name]"
+  * "network" was set to "lwn" (Local Walking Network)
+  * "operator" was set to "Island Trails" or the trail manager (Island Nature Trust, Provincial Forestry, etc.)
+  * For trails that form a loop, "roundtrip:yes" was set.
+  * "source" set to "survey"
+  * route:hiking
+  * type:route
+* If an existing trail relation was *not* present, then a *new* relation was created, with the following metadata:
+  * "Trail:[trail name]" becomes "name:[trail name]"
+  * "network" was set to "lwn" (Local Walking Network)
+  * "operator" was set to "Island Trails" or the trail manager (Island Nature Trust, Provincial Forestry, etc.)
+  * route:hiking
+  * type:route
+* The built-in JOSM warnings and errors were used to clean up inconsistencies from the imported shapefile; this mostly flagged situations in the Recreation PEI imported shapefiles where multiple points appeared at the same place.
+* The resulting relation and its ways were uploaded to OSM, with a note indicating the update from Recreation PEI survey.
+
 ## Island Trails Managed Trails
 
 These trails are managed by [Island Trails](https://islandtrails.ca) and more detailed information on each [is available on the Island Trails website](https://islandtrails.ca/trails/our-island-trails/).
@@ -34,7 +70,7 @@ These trails are collected together in an OpenStreetMap super-relation called [I
 
 ## Other Prince Edward Island Trails — Updated in OpenStreetMap
 
-These trails are not managed by Island Trails, will be updated from the Recreation PEI survey in OpenStreetMap:
+These trails are not managed by Island Trails, but were also updated in OpenStreetMap from the Recreation PEI survey:
 
 | Trail | Shapefile  | GPX | OpenStreetMap | Waymarked Trails |
 |----|---|---|---|---|
@@ -92,7 +128,7 @@ These trails are not managed by Island Trails, will be updated from the Recreati
 
 ## Other Prince Edward Island Trails - Not Updated
 
-These trails, part of the Recreation PEI survey, have *not* been updated in OpenStreetMap, as they are minor, short, or urban trails or boardwalks, or because a more complete and annotated version already existing in OpenStreetMap:
+These trails, part of the Recreation PEI survey, have *not* been updated in OpenStreetMap, as they are minor, short, urban trails, boardwalks, or because a more complete and annotated version already existing in OpenStreetMap:
 
 | Trail |
 |----|
@@ -166,37 +202,3 @@ These trails, part of the Recreation PEI survey, have *not* been updated in Open
 | Upton Rd AT |
 
 
-## Updating OpenStreetMap
-
-These layers were, in March through May 2023, used to update these trails' routes in OpenStreetMap, as follows, for each trail:
-
-* Shapefiles were wxtracted from the master Recreation PEI shapefile, and saved, preserving the T_Type, Trail, T_Name, and Manager metadata.
-* In the [JOSM Editor](https://josm.openstreetmap.de), OSM data for each trail's area was downloaded, along with the extracted shapefile for the trail (as a separate JOSM layer, using the Open Data plugin).
-* If the trail already existed in OpenStreetMap, existing ways in OSM for the trail were deleted, with metadata and relation membership saved for later reference.
-* In the shapefile layer for the trail, the ways for each were selected (Find > type:way) and the following metadata added:
-  * foot:yes
-  * for multi-use trails, bicycle:yes
-  * highway:path
-  * name:[trail segment name or trail name]
-  * surface:
-    * "T_Type=Natural*" becomes "surface:dirt"
-    * "T_Type=Boardwalk" becomes "surface:wood"
-    * "T_Type=Hard*" becomes "surface:asphalt"
-    * "T_Type=Improved*" becomes "surface:gravel"
-* The ways from the imported shapefile for each trail were copied and pasted into the OSM layer.
-* If an existing trail relation was present in OpenStreetMap, metadata and relation membership for each trail were updated, with the following translations:
-  * "Trail:[trail name]" becomes "name:[trail name]"
-  * "network" was set to "lwn" (Local Walking Network)
-  * "operator" was set to "Island Trails" or the trail manager (Island Nature Trust, Provincial Forestry, etc.)
-  * For trails that form a loop, "roundtrip:yes" was set.
-  * "source" set to "survey"
-  * route:hiking
-  * type:route
-* If an existing trail relation was *not* present, then a *new* relation was created, with the following metadata:
-  * "Trail:[trail name]" becomes "name:[trail name]"
-  * "network" was set to "lwn" (Local Walking Network)
-  * "operator" was set to "Island Trails" or the trail manager (Island Nature Trust, Provincial Forestry, etc.)
-  * route:hiking
-  * type:route
-* The built-in JOSM warnings and errors were used to clean up inconsistencies in the imported shapefile; this mostly flagged situations in the Recreation PEI imported shapefiles where multiple points appeared at the same place.
-* The resulting layer was uploaded to OSM, with a note indicating the update from Recreation PEI survey.
